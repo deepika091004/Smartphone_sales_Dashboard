@@ -17,3 +17,5 @@ To analyze and visualize smartphone sales data using Excel and Power BI, enablin
 8. Add slicers and filters for dynamic interactivity.  
 9. Test the dashboard for accuracy and interactivity.  
 10. Publish and share the dashboard with stakeholders.
+# Sales Dashboard
+<a href="https://github.com/deepika091004/Smartphone_sales_Dashboard/blob/main/smartphone%20sales%20overview.png"> </a>
