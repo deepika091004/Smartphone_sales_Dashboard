@@ -24,8 +24,8 @@ To analyze and visualize smartphone sales data using Excel and Power BI, enablin
 ![smartphone sales insights](https://github.com/user-attachments/assets/4f56dcd0-6062-4e79-9d2d-4aad78281093)
 
 ## Final Conclusion
-1.The project successfully demonstrated how data analysis and visualization could drive informed business decisions. By cleaning, transforming, and visualizing the data in an interactive Power BI dashboard, stakeholders could easily identify trends, patterns, and areas of opportunity in the smartphone sales market.
-2.The interactive dashboard helped stakeholders quickly assess key metrics and dive deeper into specific areas of interest, improving decision-making efficiency.
+The project successfully demonstrated how data analysis and visualization could drive informed business decisions. By cleaning, transforming, and visualizing the data in an interactive Power BI dashboard, stakeholders could easily identify trends, patterns, and areas of opportunity in the smartphone sales market.
+The interactive dashboard helped stakeholders quickly assess key metrics and dive deeper into specific areas of interest, improving decision-making efficiency.
 
 
 
